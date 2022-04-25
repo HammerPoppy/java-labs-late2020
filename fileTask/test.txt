@@ -1,0 +1,3 @@
+AAA Company|AAA Product|12.99$|368.916₴
+BBB Association|BBB Cool Product|10$|284.0₴
+CCC Group|CCC Pack|30$|852.0₴
